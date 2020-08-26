@@ -10,4 +10,4 @@
 1. 기호에 따라 치즈를 넣어서 먹어도 맛있다. 
 
 ## 맛있는 라면
-![ramen](./ramen.png)
+![ramen](./ramen.jpg)
